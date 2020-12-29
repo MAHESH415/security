@@ -1,0 +1,412 @@
+src/main/java/com/sathya/security/SecurityApplication.java:7:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/SecurityApplication.java:7:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/SecurityApplication.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/sathya/security/SecurityApplication.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/sathya/security/SecurityApplication.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/SecurityApplication.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/SecurityApplication.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/sathya/security/SecurityApplication.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:20:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:20:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:26:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:26:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:30:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:30:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:34:	MethodArgumentCouldBeFinal: Parameter 'perimission' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:34:	MethodArgumentCouldBeFinal: Parameter 'perimission' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:34:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:34:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:36:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:36:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:38:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:38:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:40:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:40:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:42:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:42:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:51:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:51:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:58:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:58:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:58:	MethodArgumentCouldBeFinal: Parameter 'perimission' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:58:	MethodArgumentCouldBeFinal: Parameter 'perimission' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:66:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:66:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:66:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:66:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:66:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/controller/PerimissionController.java:66:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:18:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:18:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:21:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:21:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:21:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:21:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:25:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:25:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:25:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:25:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:40:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:40:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:40:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:40:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:48:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:48:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:48:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:48:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:48:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/controller/RolesController.java:48:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:20:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:20:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:22:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:22:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:28:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:28:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:34:	MethodArgumentCouldBeFinal: Parameter 'users' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:34:	MethodArgumentCouldBeFinal: Parameter 'users' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:38:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'result' (lines '38'-'43').
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:38:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'result' (lines '38'-'43').
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:45:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:45:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:47:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:47:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:49:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:49:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:64:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:64:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:68:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'result' (lines '68'-'73').
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:68:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'result' (lines '68'-'73').
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:75:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:75:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:77:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:77:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:80:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:80:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:99:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:99:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:99:	MethodArgumentCouldBeFinal: Parameter 'users' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:99:	MethodArgumentCouldBeFinal: Parameter 'users' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:104:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'result' (lines '104'-'109').
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:104:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'result' (lines '104'-'109').
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:111:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:111:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:113:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:113:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:115:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:115:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:129:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:129:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:129:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:129:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:129:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:129:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:140:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/sathya/security/rms/admin/controller/UsersController.java:140:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/sathya/security/rms/admin/data/PerimissionRepository.java:7:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/data/PerimissionRepository.java:7:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/data/RolesReporitory.java:9:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/data/RolesReporitory.java:9:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/data/RolesReporitory.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/data/RolesReporitory.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/data/RolesReporitory.java:12:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByRoleId': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/data/RolesReporitory.java:12:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByRoleId': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/data/UsersRepository.java:7:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/data/UsersRepository.java:7:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:12:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:12:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:12:	DataClass: The class 'Perimission' is suspected to be a Data Class (WOC=8.333%, NOPA=0, NOAM=10, WMC=11)
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:12:	DataClass: The class 'Perimission' is suspected to be a Data Class (WOC=8.333%, NOPA=0, NOAM=10, WMC=11)
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:16:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:16:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:19:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:19:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:21:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:21:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:24:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:24:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:24:	LongVariable: Avoid excessively long variable names like perimissionDescripation
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:24:	LongVariable: Avoid excessively long variable names like perimissionDescripation
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:28:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:28:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:30:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:30:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:38:	MethodArgumentCouldBeFinal: Parameter 'perimissionId' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:38:	MethodArgumentCouldBeFinal: Parameter 'perimissionId' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:49:	MethodArgumentCouldBeFinal: Parameter 'roleId' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:49:	MethodArgumentCouldBeFinal: Parameter 'roleId' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:57:	MethodArgumentCouldBeFinal: Parameter 'perimissionName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:57:	MethodArgumentCouldBeFinal: Parameter 'perimissionName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:65:	LongVariable: Avoid excessively long variable names like perimissionDescripation
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:65:	LongVariable: Avoid excessively long variable names like perimissionDescripation
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:65:	MethodArgumentCouldBeFinal: Parameter 'perimissionDescripation' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:65:	MethodArgumentCouldBeFinal: Parameter 'perimissionDescripation' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:73:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Perimission.java:73:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:10:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:10:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:10:	DataClass: The class 'Roles' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=6, WMC=7)
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:10:	DataClass: The class 'Roles' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=6, WMC=7)
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:15:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:15:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:18:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:18:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:20:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:20:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:22:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:22:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:30:	MethodArgumentCouldBeFinal: Parameter 'roleId' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:30:	MethodArgumentCouldBeFinal: Parameter 'roleId' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:38:	MethodArgumentCouldBeFinal: Parameter 'roleName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:38:	MethodArgumentCouldBeFinal: Parameter 'roleName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:46:	MethodArgumentCouldBeFinal: Parameter 'roleDescription' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Roles.java:46:	MethodArgumentCouldBeFinal: Parameter 'roleDescription' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:9:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:9:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:9:	DataClass: The class 'Users' is suspected to be a Data Class (WOC=3.125%, NOPA=0, NOAM=30, WMC=31)
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:9:	DataClass: The class 'Users' is suspected to be a Data Class (WOC=3.125%, NOPA=0, NOAM=30, WMC=31)
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:13:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:13:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:13:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:13:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:15:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:15:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:17:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:17:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:19:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:19:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:21:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:21:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:23:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:23:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:25:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:25:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:27:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:27:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:29:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:29:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:31:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:31:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:33:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:33:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:35:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:35:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:37:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:37:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:39:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:39:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:41:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:41:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:43:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:43:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:43:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:43:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:51:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:51:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:51:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:51:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:59:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:59:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:67:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:67:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:75:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:75:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:83:	MethodArgumentCouldBeFinal: Parameter 'firstName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:83:	MethodArgumentCouldBeFinal: Parameter 'firstName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:91:	MethodArgumentCouldBeFinal: Parameter 'lastName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:91:	MethodArgumentCouldBeFinal: Parameter 'lastName' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:99:	MethodArgumentCouldBeFinal: Parameter 'address1' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:99:	MethodArgumentCouldBeFinal: Parameter 'address1' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:107:	MethodArgumentCouldBeFinal: Parameter 'address2' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:107:	MethodArgumentCouldBeFinal: Parameter 'address2' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:115:	MethodArgumentCouldBeFinal: Parameter 'country' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:115:	MethodArgumentCouldBeFinal: Parameter 'country' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:123:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:123:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:131:	MethodArgumentCouldBeFinal: Parameter 'phno' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:131:	MethodArgumentCouldBeFinal: Parameter 'phno' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:139:	MethodArgumentCouldBeFinal: Parameter 'zip' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:139:	MethodArgumentCouldBeFinal: Parameter 'zip' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:147:	MethodArgumentCouldBeFinal: Parameter 'creationon' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:147:	MethodArgumentCouldBeFinal: Parameter 'creationon' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:155:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:155:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:163:	MethodArgumentCouldBeFinal: Parameter 'avatar' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/entities/Users.java:163:	MethodArgumentCouldBeFinal: Parameter 'avatar' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:5:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:5:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:7:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:7:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:7:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'insertPerimissions': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:7:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'insertPerimissions': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllPerimissions': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllPerimissions': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:10:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updatePerimissions': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:10:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updatePerimissions': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:12:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:12:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:12:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deletePermissions': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IPermissionService.java:12:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deletePermissions': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:7:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:7:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'insertRolesData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'insertRolesData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:11:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllRolesData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:11:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllRolesData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:13:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updataRoles': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:13:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updataRoles': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:15:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:15:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:15:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteByID': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:15:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteByID': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:17:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByRoleId': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IRolesService.java:17:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByRoleId': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:5:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:5:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:7:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:7:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:7:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'insertUsersData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:7:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'insertUsersData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllUsersData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllUsersData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:11:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateUsersData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:11:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateUsersData': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:13:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:13:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:13:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteById': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/servic/IUsersService.java:13:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteById': the method is declared in an interface type
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:13:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:13:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:17:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:17:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:17:	LongVariable: Avoid excessively long variable names like perimissionRepository
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:17:	LongVariable: Avoid excessively long variable names like perimissionRepository
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:23:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:23:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:23:	MethodArgumentCouldBeFinal: Parameter 'perimission' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:23:	MethodArgumentCouldBeFinal: Parameter 'perimission' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:23:	MissingOverride: The method 'insertPerimissions(Perimission)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:23:	MissingOverride: The method 'insertPerimissions(Perimission)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:44:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:44:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:44:	MethodArgumentCouldBeFinal: Parameter 'perimission' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:44:	MethodArgumentCouldBeFinal: Parameter 'perimission' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:44:	MissingOverride: The method 'updatePerimissions(Perimission)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:44:	MissingOverride: The method 'updatePerimissions(Perimission)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:54:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:54:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:54:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:54:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:54:	MissingOverride: The method 'deletePermissions(Integer)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:54:	MissingOverride: The method 'deletePermissions(Integer)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:54:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/service/impl/PerimissionServiceImpl.java:54:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:13:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:13:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:17:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:17:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:24:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:24:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:42:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:42:	MethodArgumentCouldBeFinal: Parameter 'roles' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:48:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:48:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:48:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:48:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:56:	MethodArgumentCouldBeFinal: Parameter 'roleId' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/RolesServiceImpl.java:56:	MethodArgumentCouldBeFinal: Parameter 'roleId' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:13:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:13:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:16:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:16:	CommentRequired: Field comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:20:	MethodArgumentCouldBeFinal: Parameter 'users' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:20:	MethodArgumentCouldBeFinal: Parameter 'users' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:20:	MissingOverride: The method 'insertUsersData(Users)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:20:	MissingOverride: The method 'insertUsersData(Users)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:34:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:34:	MethodArgumentCouldBeFinal: Parameter 'users' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:34:	MethodArgumentCouldBeFinal: Parameter 'users' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:43:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:43:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:43:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:43:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:43:	MissingOverride: The method 'deleteById(Integer)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:43:	MissingOverride: The method 'deleteById(Integer)' is missing an @Override annotation.
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:43:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/rms/admin/service/impl/UsersServiceImpl.java:43:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/sathya/security/swagger/config/SwaggerConfig.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/swagger/config/SwaggerConfig.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/sathya/security/swagger/config/SwaggerConfig.java:14:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/swagger/config/SwaggerConfig.java:14:	CommentRequired: Header comments are required
+src/main/java/com/sathya/security/swagger/config/SwaggerConfig.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/sathya/security/swagger/config/SwaggerConfig.java:18:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:7:	CommentRequired: Header comments are required
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:7:	CommentRequired: Header comments are required
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/sathya/security/security/SecurityApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
